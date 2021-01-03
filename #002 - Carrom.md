@@ -1,10 +1,10 @@
-# Target #2 - Carrom
+# Target #002 - Carrom
 
 ## Objective
 
 <div align="center">
 
-![Target #2 - Carrom](./.github/images/002.png)
+![Target #002 - Carrom](./.github/images/002.png)
 
 </div>
 

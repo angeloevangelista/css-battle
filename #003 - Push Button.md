@@ -1,10 +1,10 @@
-# Target #3 - Push Button
+# Target #003 - Push Button
 
 ## Objective
 
 <div align="center">
 
-![Target #3 - Push Button](./.github/images/003.png)
+![Target #003 - Push Button](./.github/images/003.png)
 
 </div>
 
