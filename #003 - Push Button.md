@@ -24,7 +24,7 @@
 
   .main {
     position: relative;
-	display: flex;
+	  display: flex;
     margin: auto;
     width: 300px;
     height: 150px;
@@ -44,7 +44,7 @@
   }
 
   .main > div > div {
-	width: 50px;
+	  width: 50px;
     height: 50px;
     margin: auto;
     border-radius: 50%;

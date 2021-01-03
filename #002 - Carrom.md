@@ -33,22 +33,22 @@
   }
 
   .top-left {
-	top: 50px;
+	  top: 50px;
     left: 50px;
   }
 
   .top-right {
-	top: 50px;
+	  top: 50px;
     right: 50px;
   }
 
   .bottom-right {
-	bottom: 50px;
+	  bottom: 50px;
     right: 50px;
   }
 
   .bottom-left {
-	bottom: 50px;
+	  bottom: 50px;
     left: 50px;
   }
 </style>
