@@ -10,7 +10,7 @@
 
 ## Code
 
-```css
+```html
 <div>
   <div class="left"></div>
   <div class="middle"></div>

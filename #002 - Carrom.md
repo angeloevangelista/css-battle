@@ -10,7 +10,7 @@
 
 ## Code
 
-```css
+```html
 <div class="container">
   <div class="top-left"></div>
   <div class="top-right"></div>

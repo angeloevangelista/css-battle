@@ -10,7 +10,7 @@
 
 ## Code
 
-```css
+```html
 <div class="down"></div>
 <div class="up"></div>
 <div class="down"></div>
